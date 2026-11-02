@@ -1,0 +1,6 @@
+{
+  "name": "Medusa JF-4 Field Simulator",
+  "description": "A robotic jellyfish you can take apart piece by piece, built live in three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
