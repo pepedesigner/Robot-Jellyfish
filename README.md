@@ -2,6 +2,8 @@
 
 An interactive, browser-based visualization of a fictional robotic jellyfish. Explore a procedural 3D model and follow a 25-second operation sequence through a telemetry-inspired dashboard.
 
+![Medusa JF-4 field simulator preview](docs/preview.png)
+
 [Watch the square MP4 preview](preview.mp4)
 
 ## Features
